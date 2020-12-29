@@ -1,0 +1,22 @@
+{
+  "name": "flower-mgr-be",
+  "version": "1.0.0",
+  "description": "花店管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "课设"
+  ],
+  "author": "haoyingying",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "mongoose": "^5.11.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
